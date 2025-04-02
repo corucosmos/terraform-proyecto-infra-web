@@ -6,6 +6,7 @@ Este proyecto despliega una infraestructura básica en AWS utilizando Terraform,
 * **Cómputo (EC2 con Autoescalado)**: Instancias EC2 configuradas con un grupo de autoescalado para alta disponibilidad y escalabilidad.
 * **Balanceo de Carga (ALB)**: Un balanceador de carga de aplicaciones (ALB) para distribuir el tráfico entre las instancias EC2.
 * **Base de Datos (RDS)**: Una instancia de base de datos RDS para almacenar datos.
+* **Alertas AWS (CloudWatch)**: Alarmas en consola de AWS, y envio por correo
 
 ## Estructura del Proyecto
 
